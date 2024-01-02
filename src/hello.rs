@@ -1,5 +1,5 @@
 pub mod functions {
     pub fn hello() {
-        println!("hallo\n");
+        println!("hi\n");
     }
 }
